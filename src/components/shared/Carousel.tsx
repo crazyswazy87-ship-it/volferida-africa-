@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 
 import mboto from "../../../public/assets/kl.jpg";
 import fisa from "../../../public/assets/ks.png";
-import task from "../../../public/assets/fJ.jpg";
+import task from "../../../public/assets/ky.jpg";
 import safi from "../../../public/assets/kkk.jpg";
 import car from "../../../public/assets/kf.jpg";
 import buby from "../../../public/assets/kb.jpg";
